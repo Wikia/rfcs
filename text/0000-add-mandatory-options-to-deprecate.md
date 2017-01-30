@@ -4,7 +4,7 @@
 
 # Summary
 
-Introduce a `sveltify` API in order to be able to remove deprecated code for svelte builds.
+Introduce a `sveltify` API in order to be able to remove deprecated code when doing svelte builds.
 
 # Motivation
 
