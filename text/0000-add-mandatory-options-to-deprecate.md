@@ -4,7 +4,7 @@
 
 # Summary
 
-Adding `since` and `origin` mandatory options to the `deprecate` API will enable svelte builds in stripping out unwanted code.
+Introduce a `sveltify` API in order to be able to remove deprecated code for svelte builds.
 
 # Motivation
 
