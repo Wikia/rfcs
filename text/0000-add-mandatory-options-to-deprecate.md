@@ -11,6 +11,9 @@ Adding `since` and `origin` mandatory options to the `deprecate` API will enable
 > Why are we doing this? What use cases does it support? What is the expected
 outcome?
 
+The deprecate API is a cornerstone of Ember's release cycle, and has served to provide a better developer experience.
+However, to further extend `deprecate`'s usefulness to svelt builds, we need to add two additional options: `since`, and `origin`.
+
 # Detailed design
 
 > This is the bulk of the RFC. Explain the design in enough detail for somebody
